@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ana Priscila</title>
+    <link>https://anapriscila2898.github.io/AnaPriscila_Portfolio/post/</link>
+    <description>Recent content in Projects on Ana Priscila</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Dec 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://anapriscila2898.github.io/AnaPriscila_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project IV: Flight Price Prediction</title>
+      <link>https://anapriscila2898.github.io/AnaPriscila_Portfolio/post/chapter-4/</link>
+      <pubDate>Fri, 11 Dec 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://anapriscila2898.github.io/AnaPriscila_Portfolio/post/chapter-4/</guid>
+      <description>Created a tool that estimates the price of a particular airline ticket taking into consideration the time of departures,the source,destination,etc. Scrapped over 10000 different features and descriptions of different airlines using python. Engineered features from the various columns of the airline dataset so as to determine the price of the airline ticket based on the above features. Optimized Random Forest Regressor using GridSearchCV to reach the best model.    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project III: Drug Prediction</title>
+      <link>https://anapriscila2898.github.io/AnaPriscila_Portfolio/post/chapter-3/</link>
+      <pubDate>Thu, 10 Dec 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://anapriscila2898.github.io/AnaPriscila_Portfolio/post/chapter-3/</guid>
+      <description>Created a classifier that predicts the type of Drug that suits a person based on few details. Scrapped about 200 different characteristic features of people belonging to distinct age groups using python. Visualized the data and extracted insights on how the intake of drugs varies with each individual based on the considered factors. Optimized Support Vector Machine(SVM),k-Nearest Neighbors(kNN) and Random Forest Classifier using GridSearchCV to reach the best model.    Link to this Project&amp;rsquo;s GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>PROJECT II: Bank Loan Data Prediction</title>
+      <link>https://anapriscila2898.github.io/AnaPriscila_Portfolio/post/chapter-2/</link>
+      <pubDate>Wed, 09 Dec 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://anapriscila2898.github.io/AnaPriscila_Portfolio/post/chapter-2/</guid>
+      <description>Created a bank loan classifier that estimates whether a person is likely to pay off his loan or not based on certain features. Scrapped over 600 different rows of features of an individual and loan related prerequisites using python. Engineered features from the attributes of the loan applicant so as to determine his capability of paying the loan back. The idea of this project was to use classification algorithms on the bank loan dataset so as to extract important features and predict if a customer would be able to repay his loan or not.</description>
+    </item>
+    
+    <item>
+      <title>PROJECT I: House Price Prediction</title>
+      <link>https://anapriscila2898.github.io/AnaPriscila_Portfolio/post/chapter-1/</link>
+      <pubDate>Mon, 07 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://anapriscila2898.github.io/AnaPriscila_Portfolio/post/chapter-1/</guid>
+      <description>Created a tool that estimates the price of the house that can give people an insight on the cost of buying a house taking certain features into consideration. Scrapped over 1000 different features and descriptions of houses using python. Engineered features from the rows of the house dataset so as to determine the value of a house based on it&amp;rsquo;s age,square feet and many more. Optimized Linear,Lasso and Random Forest Regressor using GridSearchCV to reach the best model.</description>
+    </item>
+    
+    <item>
+      <title>PROJECT V: Car Selling Price Prediction</title>
+      <link>https://anapriscila2898.github.io/AnaPriscila_Portfolio/post/chapter-5/</link>
+      <pubDate>Mon, 30 Nov 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://anapriscila2898.github.io/AnaPriscila_Portfolio/post/chapter-5/</guid>
+      <description>Created a tool that estimates the price of a second hand car taking into consideration features such as the age of the car,fuel type, kilometres driven, etc. Scrapped over 300 different data features of the cars using python. Engineered features from the rows of the dataset so as to determine the value of a car based on the above features. Optimized Random Forest Regressor using RandomizedSearchCV to reach the best model.</description>
+    </item>
+    
+  </channel>
+</rss>
